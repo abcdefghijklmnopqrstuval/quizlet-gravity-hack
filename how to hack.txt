@@ -1,5 +1,5 @@
 Steps (in case you don't know how to use it)
-Step 1 : Open the "hack" file above this repo
+Step 1 : Open the "hack" file
 Step 2 : Copy everything in the file
 Step 3 : When you're on the "Start Game" page, open the console (Ctrl+Shift+I and then click "Console").
 Step 4 : Paste the code and click enter
